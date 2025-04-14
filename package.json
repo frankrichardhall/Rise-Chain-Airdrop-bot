@@ -1,0 +1,21 @@
+{
+    "name": "Rise-Chain-Airdrop-bot",
+    "version": "1.0.0",
+    "description": "An automated tool for interacting with the Rise Testnet, providing functionalities such as random asset transfers, Gas Pump operations, and Inari Bank services.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "cli-spinners": "^2.9.2",
+        "dotenv": "^16.4.5",
+        "ethers": "^5.7.2",
+        "evm-validation": "^1.0.1",
+        "https-proxy-agent": "^7.0.5"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}

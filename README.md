@@ -1,7 +1,7 @@
 # RISE Chain Airdrop Bot
 An automated tool for interacting with the Rise Testnet, providing functionalities such as random asset transfers, Gas Pump operations, and Inari Bank services.
 
-## Feature
+## Features
 - Multi-wallet support
 - Cross-platform and token bridge compatibility
 
@@ -14,25 +14,25 @@ An automated tool for interacting with the Rise Testnet, providing functionaliti
 
 The bot provides an interactive menu with the following options:
 
-1. **Send to Random Addresses**: Automate multiple transfers to random addresses
-2. **Gas Pump**: Access token wrap/unwrap and swap functions
-3. **Inari Bank**: Supply or withdraw ETH from Inari Bank
-4. **Exit**: Close the application
+- **Send to Random Addresses**: Automate multiple transfers to random addresses
+- **Gas Pump**: Access token wrap/unwrap and swap functions
+- **Inari Bank**: Supply or withdraw ETH from Inari Bank
+- **Exit**: Close the application
 
 ### Gas Pump Menu
 
-1. **Wrap ETH to WETH**: Convert ETH to Wrapped ETH
-2. **Unwrap WETH to ETH**: Convert WETH back to ETH
-3. **Approve WETH for DODO**: Set token allowances for swaps
-4. **Swap WETH to USDC**: Exchange WETH for USDC tokens
-5. **Swap USDC to WETH**: Exchange USDC for WETH tokens
-6. **Back to main menu**: Return to main options
+- **Wrap ETH to WETH**: Convert ETH to Wrapped ETH
+- **Unwrap WETH to ETH**: Convert WETH back to ETH
+- **Approve WETH for DODO**: Set token allowances for swaps
+- **Swap WETH to USDC**: Exchange WETH for USDC tokens
+- **Swap USDC to WETH**: Exchange USDC for WETH tokens
+- **Back to main menu**: Return to main options
 
 ### Inari Bank Menu
 
-1. **Supply ETH to Inari Bank**: Deposit ETH to Inari Bank
-2. **Withdraw ETH from Inari Bank**: Withdraw your ETH from Inari Bank
-3. **Back to main menu**: Return to main options
+- **Supply ETH to Inari Bank**: Deposit ETH to Inari Bank
+- **Withdraw ETH from Inari Bank**: Withdraw your ETH from Inari Bank
+- **Back to main menu**: Return to main options
 
 ## Installation
 
